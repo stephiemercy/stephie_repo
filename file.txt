@@ -1,0 +1,6 @@
+hello world
+my name is stephie
+there are two types of repo
+local repo
+remote repo
+
