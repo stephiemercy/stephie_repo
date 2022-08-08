@@ -1,6 +1,1 @@
-hello world
-my name is stephie
-there are two types of repo
-local repo
-remote repo
-
+Today is monday 08/08/2022
